@@ -1,3 +1,6 @@
 [submodule "cpp-cheatsheet"]
 	path = cpp-cheatsheet
 	url = https://github.com/Neeraj2K18/cpp-cheatsheet.git
+[submodule "Linux-Practice"]
+	path = Linux-Practice
+	url = https://github.com/Neeraj2K18/Linux-Practice.git
