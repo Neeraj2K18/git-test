@@ -51,7 +51,7 @@ fi
 
 #Start Label
 : Start
-echo -e '\033[0;33m' "\n1>Clone googletest from github" '\033[0m'
+echo -e '\033[0;33m' "\n1>clone googletest from github" '\033[0m'
 git clone https://github.com/google/googletest.git
 
 echo -e '\033[0;33m' "\n2>cd googletest and make build dir" '\033[0m'
